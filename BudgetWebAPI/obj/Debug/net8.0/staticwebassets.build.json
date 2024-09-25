@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o+ppIc21rFYIPhaovSqqFBX7+o4fRpVhrYJT5UZdmy4=",
+  "Source": "BudgetWebAPI",
+  "BasePath": "_content/BudgetWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

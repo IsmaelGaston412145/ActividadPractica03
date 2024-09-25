@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\trabajo03\\BudgetWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF89B636-B9CA-4223-8ED3-71DE7C78A71D}|BudgetWebAPI.csproj|c:\\users\\usuario\\desktop\\trabajo03\\budgetwebapi\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF89B636-B9CA-4223-8ED3-71DE7C78A71D}|BudgetWebAPI.csproj|solutionrelative:controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF72717-3A68-4BED-9B24-5E8CEFD159BC}|..\\BudgetBack\\BudgetBack.csproj|c:\\users\\usuario\\desktop\\trabajo03\\budgetback\\services\\facturamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturaManager.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\trabajo03\\BudgetBack\\Services\\FacturaManager.cs",
+              "RelativeDocumentMoniker": "..\\BudgetBack\\Services\\FacturaManager.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\trabajo03\\BudgetBack\\Services\\FacturaManager.cs",
+              "RelativeToolTip": "..\\BudgetBack\\Services\\FacturaManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAArwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:43:04.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\trabajo03\\BudgetWebAPI\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\trabajo03\\BudgetWebAPI\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Controllers\\FacturaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T13:30:53.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
